@@ -33,6 +33,7 @@ Explore as tabelas relacionadas aos clientes e apostas para obter informações 
 - Determine a porcentagem necessária para calcular o valor de acréscimo com base nas  informações fornecidas na tabela limites.
 - Aplique a porcentagem encontrada ao valor na coluna "pagamentos" do CSV para obter o pagamento final.
 - Usar alguma ferramente de BI (Databricks, Tableau, Apache Spark, Python Pandas e Jupiter) ou relacionadas.
+- No assunto do email coloque essa chave [Desafio-Dados]. 
 
 ## Cálculo do pagamento
 
